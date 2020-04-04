@@ -1,0 +1,1 @@
+python run.py --content examples/building.jpg --style examples/rain.jpg --output Output/BuildingandRain/ --checkpoint-iterations 5 --checkpoint-output op%s.jpg
